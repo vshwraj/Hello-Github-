@@ -1,2 +1,6 @@
 # hello-world
-Creating my first Git repository
+
+Hi Folks!
+
+Vishwaraj here.
+You know i'm something of a Coder myself.
